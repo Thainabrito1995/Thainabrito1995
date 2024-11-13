@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy @Thainabrito1995!
+# 👋 ¡Hola, soy Thaina Brito 
 
 ## Sobre mí
 - 👀 Estoy interesado en desarrollo web, proyectos de código abierto y inteligencia artificial.
