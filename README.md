@@ -1,7 +1,3 @@
-<!-- Banner -->
-![Thaina Brito Banner](https://github.com/Thainabrito1995/Thainabrito1995/blob/main/banner.png)
-
-<!-- Night Owl image -->
 
 <!-- Header Name -->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Thaina Brito! 👩‍💻
