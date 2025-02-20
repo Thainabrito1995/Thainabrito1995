@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Thaina Brito Banner](https://github.com/ThainaBrito/ThainaBrito/blob/main/banner.png)
+![Thaina Brito Banner](https://github.com/Thainabrito1995/Thainabrito1995/blob/main/banner.png)
 
 <!-- Night Owl image -->
 <div>
@@ -9,7 +9,7 @@
 <!-- Header Name -->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Thaina Brito! 👩‍💻
 *Front-end Developer & Data Enthusiast*
-<br />
+<br /> 
 
 <!-- Start Intro -->
 <p align="left">I am a passionate Front-end Developer specializing in React and exploring Data Analysis. I love building interactive web applications and improving user experiences.</p>
@@ -19,11 +19,11 @@
 - 🌍 Looking for 100% remote opportunities.
 - 🤖 Enthusiastic about AI, web development, and open-source projects.
 - 📚 Continuous learner exploring new technologies.
-- 💻 Check out my <a href="https://github.com/ThainaBrito">GitHub</a> for my latest projects!
+- 💻 Check out my <a href="https://github.com/Thainabrito1995">GitHub</a> for my latest projects!
 
 <!-- Profile Count Badge -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ThainaBrito&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ThainaBrito" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Thainabrito1995&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Thainabrito1995" style="padding-right:20px;" />
 </p>
 
 ---
@@ -41,16 +41,16 @@
     <td width="50%">
       <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
-        <a href="https://github.com/ThainaBrito">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThainaBrito&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/Thainabrito1995">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thainabrito1995&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
-        <a href="https://github.com/ThainaBrito">
-          <img align="center" src="https://streak-stats.demolab.com?user=ThainaBrito&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/Thainabrito1995">
+          <img align="center" src="https://streak-stats.demolab.com?user=Thainabrito1995&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -60,7 +60,7 @@
 <!-- Contribution Graph -->
 <h2 align="center">📈 Contribution Graph</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThainaBrito&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thainabrito1995&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false">
 </div>
 
 ---
@@ -68,7 +68,7 @@
 <!-- Contact Section -->
 <h2 align="center">🤝 Connect with Me</h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/thainabrito/" target="_blank">
+ <a href="https://www.linkedin.com/in/thainá-brito-fernandes-640862247" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
@@ -85,6 +85,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-
-
